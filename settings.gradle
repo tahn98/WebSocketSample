@@ -1,0 +1,3 @@
+include ':Java_WebSocket'
+include ':app'
+rootProject.name = "WebSocketSample"
